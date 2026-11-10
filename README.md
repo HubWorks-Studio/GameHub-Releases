@@ -76,7 +76,7 @@ A full-screen view made for controllers (press **F11**, or start GameHub in it):
 - Daily library backups to a folder or cloud-synced drive.
 - Start with Windows.
 - A first-time setup guide.
-- A [user guide](GameHub%20User%20Guide.pdf) (PDF), also opened from **Settings > About**.
+- A [user guide](GameHub-User-Guide.pdf) (PDF), also opened from **Settings > About**.
 
 ## Getting started
 

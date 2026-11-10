@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/Launcher.App/Assets/GameHub.png" width="96" alt="GameHub icon">
+  <img src="GameHub.png" width="96" alt="GameHub icon">
 </p>
 
 <h1 align="center">GameHub</h1>

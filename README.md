@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="GameHub.png" width="96" alt="GameHub icon">
+  <img src="src/Launcher.App/Assets/GameHub.png" width="96" alt="GameHub icon">
 </p>
 
 <h1 align="center">GameHub</h1>
@@ -76,7 +76,7 @@ A full-screen view made for controllers (press **F11**, or start GameHub in it):
 - Daily library backups to a folder or cloud-synced drive.
 - Start with Windows.
 - A first-time setup guide.
-- A [user guide](GameHub-User-Guide.pdf) (PDF), also opened from **Settings > About**.
+- A [user guide](GameHub%20User%20Guide.pdf) (PDF), also opened from **Settings > About**.
 
 ## Getting started
 
@@ -100,7 +100,7 @@ GameHub has no account, no telemetry and no ads. It only connects to the service
 
 ## Reporting a problem
 
-GameHub is in beta, so things may go wrong. When something does, please open an [issue](https://github.com/HubWorks-Studio/GameHub-Releases/issues) with:
+GameHub is in beta, so things may go wrong. When something does, please [open an issue](https://github.com/HubWorks-Studio/GameHub-Releases/issues/new) on GitHub (you'll need a free GitHub account) with:
 - the version, shown in **Settings > About**;
 - what you did, and what happened;
 - the log, from `%LOCALAPPDATA%\GameHub\logs\launcher.log`.
